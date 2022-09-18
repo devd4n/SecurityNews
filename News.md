@@ -1,4 +1,5 @@
-## 2022-09-17 - Browsers Extended Spellcheck should be disabled!
+## 2022-09-17
+Browsers - Extended Spellcheck should be disabled!
 https://www.bleepingcomputer.com/news/security/google-microsoft-can-get-your-passwords-via-web-browsers-spellcheck/
 
 ## 2022-09-14 
